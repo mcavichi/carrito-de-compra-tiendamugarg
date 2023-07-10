@@ -7,8 +7,8 @@ const productos =
         material: "Céramica",
         precio: 1400,
         capacidad: "325 ml",
-        img: "../public/images/simpson1A.jpg",
-        img2: "../public/images/simpson1B.jpg",
+        img: "/public/images/simpson1A.jpg",
+        img2: "/public/images/simpson1B.jpg",
         cantidad:1
     },
 
